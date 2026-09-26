@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AI Ultra Zoom</string>
+    <string name="zoom_title">1x – 1000x</string>
+    <string name="assistant_title">AI Assistant</string>
+    <string name="clear_mode">Super Clear</string>
+    <string name="smart_capture">Smart capture</string>
+    <string name="ai_hint">Ask the assistant…</string>
+</resources>
