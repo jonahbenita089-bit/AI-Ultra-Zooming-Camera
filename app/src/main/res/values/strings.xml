@@ -5,4 +5,8 @@
     <string name="clear_mode">Super Clear</string>
     <string name="smart_capture">Smart capture</string>
     <string name="ai_hint">Ask the assistant…</string>
+    <string name="photo_mode">📷 Photo</string>
+    <string name="video_mode">🎥 Video</string>
+    <string name="capture">⭕ Capture</string>
+    <string name="record">🎥 Record</string>
 </resources>
