@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ai_styles_array">
+        <item>Natural</item>
+        <item>Pixar</item>
+        <item>Cinema 3D</item>
+        <item>DreamWorks cartoon</item>
+        <item>Anime</item>
+        <item>Comic</item>
+    </string-array>
+</resources>
